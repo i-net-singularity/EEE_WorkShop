@@ -11,6 +11,7 @@
 
 * 仕入先
   * ALI EXPRESS
+  * Panda Hall
 
 #### 購入手段
 
