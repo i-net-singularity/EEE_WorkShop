@@ -1,4 +1,4 @@
-# EEE WorkSHop
+# EEE WorkSHop Manual
 
 ## 商品作成の流れ
 
