@@ -12,6 +12,7 @@
 * 仕入先
   * ALI EXPRESS
   * Panda Hall
+  * ネッシー
 
 #### 購入手段
 
